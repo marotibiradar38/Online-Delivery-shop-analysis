@@ -34,7 +34,7 @@ It is ideal for **data analysts, students, and professionals** looking to unders
 
 ### **🔹 Main KPIs**
 
-* **Max Unit Price:** 599.72
+* **Max Unit Price:** 599.720
 * **Total Discount:** 109.70
 * **Total Shipping Cost:** 41.26K
 * **Total Returned Orders:** 372
