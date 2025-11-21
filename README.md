@@ -24,7 +24,7 @@ It is ideal for **data analysts, students, and professionals** looking to unders
 
 ---
 
-## **📸 Dashboard Preview**
+## **📸 Dashboard Preview**   1
 
 ![Dashboard Screenshot]https://github.com/marotibiradar38/Online-Delivery-shop-analysis/blob/main/Dashboard%20of%20shop%20analysis.png
 
