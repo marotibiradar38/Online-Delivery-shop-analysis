@@ -14,7 +14,7 @@ This repository contains an interactive **Excel dashboard** designed to analyze 
 
 The **Sales Analysis Dashboard** helps users monitor and understand:
 
-* Regional performance
+* Regional performance happening 
 * Product-wise shipping cost and discount distribution
 * Payment method trends
 * Returns tracking
@@ -59,7 +59,7 @@ It is ideal for **data analysts, students, and professionals** looking to unders
 ## **🛠 Tools & Technologies Used**
 
 * **Microsoft Excel**
-
+  *insights
   * Pivot Tables
   * Pivot Charts
   * Slicers
