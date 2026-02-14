@@ -12,7 +12,7 @@ This repository contains an interactive **Excel dashboard** designed to analyze 
  
 ## **📁 Project Overview**
 
-The **Sales Analysis Dashboard** helps users monitor and understand:
+The **Sales Analysis Dashboard** helps users monitor and understand: 
 
 * Regional performance happening 
 * Product-wise shipping cost and discount distribution
