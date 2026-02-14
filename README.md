@@ -16,7 +16,7 @@ The **Sales Analysis Dashboard** helps users monitor and understand:
 
 * Regional performance happening 
 * Product-wise shipping cost and discount distribution
-* Payment method trends
+* Payment method trends 
 * Returns tracking
 * Key sales indicators 
 
