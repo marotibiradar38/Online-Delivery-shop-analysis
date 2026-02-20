@@ -5,14 +5,14 @@ You can **copy–paste directly** into your repository.
 ---
 
 # **📊 Sales Analysis of Online Delivery Shop – Dashboard** 
-
+   
 This repository contains an interactive **Excel dashboard** designed to analyze sales performance across regions, products, and payment methods for an online delivery shop. The dashboard provides actionable insights through KPIs, charts, and visual storytelling.
 
 ---
   
 ## **📁 Project Overview**
 
-The **Sales Analysis Dashboard** helps users monitor and understand: 
+The **Sales Analysis Dashboard** helps users monitor and understand:  
 
 * Regional performance happening 
 * Product-wise shipping cost and discount distribution
