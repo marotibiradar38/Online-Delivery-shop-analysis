@@ -10,7 +10,7 @@ This repository contains an interactive **Excel dashboard** designed to analyze 
 
 ---
   
-## **📁 Project Overview**
+## **📁 Project   Overview**
 
 The **Sales Analysis Dashboard**  helps users monitor and understand:  
 
