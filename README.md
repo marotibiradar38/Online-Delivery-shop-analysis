@@ -18,7 +18,8 @@ The **Sales Analysis Dashboard**  helps users monitor and understand:
 * Product-wise shipping cost and discount distribution
 * Payment method trends 
 * Returns tracking
-* Key sales indicators 
+* Key sales indicators
+* meaningful insights
 
 It is ideal for **data analysts, students, and professionals** looking to understand Excel-based dashboard creation.
 
